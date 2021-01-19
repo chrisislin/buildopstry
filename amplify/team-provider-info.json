@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nope-dev-213013-authRole",
+      "UnauthRoleArn": "arn:aws:iam::591621821694:role/amplify-nope-dev-213013-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::591621821694:role/amplify-nope-dev-213013-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-nope-dev-213013-deployment",
+      "UnauthRoleName": "amplify-nope-dev-213013-unauthRole",
+      "StackName": "amplify-nope-dev-213013",
+      "StackId": "arn:aws:cloudformation:us-west-2:591621821694:stack/amplify-nope-dev-213013/47b1ae00-594e-11eb-afcb-02e80b0e3dd3",
+      "AmplifyAppId": "dito2k147se1f"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dito2k147se1f",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
