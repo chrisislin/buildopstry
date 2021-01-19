@@ -1,3 +1,9 @@
+1. clone repo
+2. npm install or yarn
+3. npm/yarn start
+
+Deployed here: https://dev.dito2k147se1f.amplifyapp.com/
+
 ## Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
