@@ -149,7 +149,7 @@ function Employee(props) {
       <div className="EmpBox">{employeeView}</div>
       <div className="SkillContainer">
         <h3>
-          {props.firstName} {props.lastName}'s Skills:
+          {props.firstName} {props.lastName} Skills:
         </h3>
         {props.skills !== null &&
           props.skills.map((skill) => {

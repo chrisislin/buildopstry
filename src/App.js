@@ -77,7 +77,7 @@ function App() {
   const employeeHandlers = { addEmployee, updateEmployee, deleteEmployee };
 
   if (employeesLoading || skillsLoading) return (
-  <p>Loading</p>
+  <p />
   );
 
   return (
