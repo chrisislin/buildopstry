@@ -17,4 +17,8 @@
 Deployed here: https://dev.dito2k147se1f.amplifyapp.com/
 
 ## What is this
-This project is a simple CRUD app with React, Apollo, GraphQL for a buildops coding challenge. You can see the demo deployed there. If the site crashes after inserting data, it is likely the API key has expired after 7 days (now a year) and I would need to make a new one. Contact me, and I should be able to fix it.
+This project is a simple CRUD app with React, Apollo, GraphQL for a buildops coding challenge. It displays employee and their skills. I will definitely improve on this on other projects.
+
+You can see the demo deployed. 
+
+If the site crashes after inserting data, it is likely the API key has expired after 7 days (now a year) and I would need to make a new one. Contact me, and I should be able to fix it.
